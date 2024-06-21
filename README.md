@@ -30,3 +30,4 @@
 ## Credits
 
 The instructions above on how to deploy a voila application on heroku are adapted from [voila-dashboards/voila-heroku](https://github.com/voila-dashboards/voila-heroku).
+
